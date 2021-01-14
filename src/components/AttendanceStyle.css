@@ -1,0 +1,44 @@
+
+
+.circle {
+    
+        height: 50px;
+        width: 50px;
+        background-color: black;
+        border-radius: 50%;
+        
+        display: inline-block;
+    
+}
+
+  html {
+    background-color: lightblue;
+    align-content: left;
+    padding: 50px;
+  }
+  form {
+    font-family:Arial;
+    width: 500px;
+    
+    background-color: white;
+    padding: 2rem;
+    outline: 25px;
+    border-style: ridge;
+    box-shadow: 0px 4px 10px 0px rgba(0,0,0,0.25);
+    border-top: 5px solid steelblue;
+    
+  }
+
+  .f1 {
+      height: 200px;
+  }
+  .f2 {
+      height: 80px;
+      
+  }
+  svg {
+
+    align-items:center;
+  }
+
+  
